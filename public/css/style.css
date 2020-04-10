@@ -1,0 +1,22 @@
+.search-bar {
+
+  padding-top: 20px;
+}
+ @media only screen and (max-width: 37.5em) {
+     .row {
+         padding-top: 0!important;
+     }
+     .ui.grid {
+         margin-top: 0!important;
+     }
+ .ui.column.grid>[class*="six wide"].column, .ui.grid>.column.row>[class*="six wide"].column, .ui.grid>.row>[class*="six wide"].column, .ui.grid>[class*="six wide"].column {
+     width:100%!important;
+     
+        }
+      
+        .ui.column.grid>[class*="ten wide"].column, .ui.grid>.column.row>[class*="ten wide"].column, .ui.grid>.row>[class*="ten wide"].column, .ui.grid>[class*="ten wide"].column {
+             width:100%!important;
+             margin-top: 0!important;
+             margin-bottom: 20px!important;
+        }
+ }

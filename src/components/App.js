@@ -15,7 +15,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("dua lipa");
+    this.onTermSubmit("recommended");
   }
 
   // 1.  termi vjen prej anej cka ti shenon cfardo fjale te vjen si parameter
@@ -48,10 +48,10 @@ class App extends React.Component {
           <SearchBar onFormSubmit={this.onTermSubmit} />
           <div className="ui grid">
             <div className="ui row">
-              <div className="eleven wide column">
+              <div className="ten wide column">
                 <VideoDetail video={this.state.selectedVideo} />
               </div>
-              <div className="five wide column">
+              <div className="six wide column">
                 <VideoList
                   videos={this.state.videos}
                   onVideoSelect={this.onVideoSelect}
