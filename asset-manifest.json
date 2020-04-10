@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-youtube/static/css/main.14d353f4.chunk.css",
-    "main.js": "/my-youtube/static/js/main.e7d1fd89.chunk.js",
-    "main.js.map": "/my-youtube/static/js/main.e7d1fd89.chunk.js.map",
+    "main.js": "/my-youtube/static/js/main.6cb24d19.chunk.js",
+    "main.js.map": "/my-youtube/static/js/main.6cb24d19.chunk.js.map",
     "runtime-main.js": "/my-youtube/static/js/runtime-main.717a4251.js",
     "runtime-main.js.map": "/my-youtube/static/js/runtime-main.717a4251.js.map",
     "static/js/2.c8b025c3.chunk.js": "/my-youtube/static/js/2.c8b025c3.chunk.js",
     "static/js/2.c8b025c3.chunk.js.map": "/my-youtube/static/js/2.c8b025c3.chunk.js.map",
     "index.html": "/my-youtube/index.html",
-    "precache-manifest.5f0f5666479b7e333ba18c7dcc7dcbf2.js": "/my-youtube/precache-manifest.5f0f5666479b7e333ba18c7dcc7dcbf2.js",
+    "precache-manifest.f75a893df6ef1656a1db11e1c36e48e0.js": "/my-youtube/precache-manifest.f75a893df6ef1656a1db11e1c36e48e0.js",
     "service-worker.js": "/my-youtube/service-worker.js",
     "static/css/main.14d353f4.chunk.css.map": "/my-youtube/static/css/main.14d353f4.chunk.css.map",
     "static/js/2.c8b025c3.chunk.js.LICENSE.txt": "/my-youtube/static/js/2.c8b025c3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.717a4251.js",
     "static/js/2.c8b025c3.chunk.js",
     "static/css/main.14d353f4.chunk.css",
-    "static/js/main.e7d1fd89.chunk.js"
+    "static/js/main.6cb24d19.chunk.js"
   ]
 }
