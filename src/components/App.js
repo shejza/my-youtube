@@ -4,7 +4,8 @@ import youtube from "../apis/youtube";
 import VideoList from "./VideoList";
 import VideoDetail from "./VideoDetail";
 
-const KEY = "AIzaSyBXAyimeyDQaq0xckMpjEG4NzYGJR_XTbg";
+// const KEY = "AIzaSyBXAyimeyDQaq0xckMpjEG4NzYGJR_XTbg";
+const KEY = "AIzaSyAmC2SKVwCcsDsg2M-OREp4dW9x8BCgGTg";
 
 class App extends React.Component {
   //Na i marrim krejt qa na kthehen prej response edhe i qesim n state
